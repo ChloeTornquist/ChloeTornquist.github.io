@@ -47,21 +47,21 @@ hr{
 	border-radius: 1em; 
 }
 .img1{
-	background-image: url("\\Mac\Home\Desktop\Portfolio\Img\Family.jpg");
+	background-image: url("Img\Family.jpg");
 	text-align: center;
 	width: 95%;
 	display: block;
 
 }
 .img2{
-	background-image: url("\\Mac\Home\Desktop\Portfolio\Img\Maine.jpg");
+	background-image: url("Img\Maine.jpg");
 	text-align: center;
 	width: 95%;
 	display: block;
 
 }
 .img3{
-	background-image: url("\\Mac\Home\Desktop\Portfolio\Img\Ginger.jpg");
+	background-image: url("Img\Ginger.jpg");
 	text-align: center;
 	width: 95%;
 	display: block;
