@@ -47,7 +47,7 @@ hr{
 	border-radius: 1em; 
 }
 .img1{
-	background-image: url("Img\Family.jpg");
+	background-image: "Img\Family.jpg";
 	text-align: center;
 	width: 95%;
 	display: block;
