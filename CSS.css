@@ -1,0 +1,86 @@
+body {
+	background-color: #f2f2f2;
+}
+
+.jumbotron {
+	background-image: url("https://scontent-ord1-1.xx.fbcdn.net/v/t1.0-9/400953_10151153205494738_1745831702_n.jpg?oh=354603f086b9b1443848cb253fa6f7ca&oe=582A849C");
+	background-color: #cccccc;
+	height: 25em;
+	width: 100%;
+  background-position: 0% 50%;
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: white;
+  text-shadow: black 0.3em 0.3em 0.3em;
+
+/*  -webkit-filter: blur(1px);
+  -moz-filter: blur(1px);
+  -o-filter: blur(1px);
+  -ms-filter: blur(1px);
+  filter: blur(1px);*/
+}
+
+.jumbotron h1{
+	color: Black;
+	text-align: center;
+
+}
+hr{
+	border-top: 1px solid	 #ccc;
+}
+
+.navbar-default .navbar-brand {
+	color: Black;
+}
+
+.content {
+	background-color: Purple;
+	margin: 2.5em; 
+	border-radius: 0.5em;
+	padding: 1em;
+
+
+.inner-message{
+	background-color: #f2f2f2;
+	margin-right: 12px;
+	height: 15em;
+	border-radius: 1em; 
+}
+.img1{
+	background-image: url("\\Mac\Home\Desktop\Portfolio\Img\Family.jpg");
+	text-align: center;
+	width: 95%;
+	display: block;
+
+}
+.img2{
+	background-image: url("\\Mac\Home\Desktop\Portfolio\Img\Maine.jpg");
+	text-align: center;
+	width: 95%;
+	display: block;
+
+}
+.img3{
+	background-image: url("\\Mac\Home\Desktop\Portfolio\Img\Ginger.jpg");
+	text-align: center;
+	width: 95%;
+	display: block;
+}
+.img4{
+	background-image: url("<p data-height="265" data-theme-id="0" data-slug-hash="PzpNMW" data-default-tab="css,result" data-user="CTornquist" data-embed-version="2" class="codepen">See the Pen <a href="http://codepen.io/CTornquist/pen/PzpNMW/">undead creature</a> by Chloe (<a href="http://codepen.io/CTornquist">@CTornquist</a>) on <a href="http://codepen.io">CodePen</a>.</p>
+<script async src="//assets.codepen.io/assets/embed/ei.js"></script>");
+	width: 95%;
+	display: block;
+}
+.img5{
+	background-image: url("<p data-height="265" data-theme-id="0" data-slug-hash="GqWoXz" data-default-tab="css,result" data-user="CTornquist" data-embed-version="2" class="codepen">See the Pen <a href="http://codepen.io/CTornquist/pen/GqWoXz/">smiley face</a> by Chloe (<a href="http://codepen.io/CTornquist">@CTornquist</a>) on <a href="http://codepen.io">CodePen</a>.</p>
+<script async src="//assets.codepen.io/assets/embed/ei.js"></script>");
+	width: 95%;
+	display: block;
+}
+.img6{
+	background-image: url("<p data-height="265" data-theme-id="0" data-slug-hash="EyWVPB" data-default-tab="html,result" data-user="CTornquist" data-embed-version="2" class="codepen">See the Pen <a href="http://codepen.io/CTornquist/pen/EyWVPB/">EyWVPB</a> by Chloe (<a href="http://codepen.io/CTornquist">@CTornquist</a>) on <a href="http://codepen.io">CodePen</a>.</p>
+<script async src="//assets.codepen.io/assets/embed/ei.js"></script>");
+	width: 95%;
+	display: block;
+}
